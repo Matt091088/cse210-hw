@@ -4,11 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-<<<<<<< HEAD
         Console.WriteLine("Hello World! This is the Exercise2 Project.");
     }
 }
-=======
         // Pedir la nota al usuario
         Console.Write("Enter your grade percentage: ");
         int grade = int.Parse(Console.ReadLine());
@@ -43,6 +41,4 @@ class Program
             Console.WriteLine("Congratulations! You passed the course.");
         else
             Console.WriteLine("Don't give up! You can do better next time.");
-    }
 }
->>>>>>> e697187 (homework week1)

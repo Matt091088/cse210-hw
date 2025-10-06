@@ -1,5 +1,4 @@
 using System;
-<<<<<<< HEAD
 
 class Program
 {
@@ -8,7 +7,6 @@ class Program
         Console.WriteLine("Hello World! This is the Exercise4 Project.");
     }
 }
-=======
 using System.Collections.Generic;
 
 class Program
@@ -78,4 +76,3 @@ class Program
         }
     }
 }
->>>>>>> e697187 (homework week1)

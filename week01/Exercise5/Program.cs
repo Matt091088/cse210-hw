@@ -4,11 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-<<<<<<< HEAD
         Console.WriteLine("Hello World! This is the Exercise5 Project.");
     }
 }
-=======
         DisplayWelcome();
 
         string userName = PromptUserName();
@@ -48,4 +46,3 @@ class Program
         Console.WriteLine($"{name}, the square of your number is {squaredNumber}");
     }
 }
->>>>>>> e697187 (homework week1)
